@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Laurent;Thomas;;;
+FN:Thomas Laurent
+TITLE:Ostéopathe D.O.
+TEL;TYPE=WORK,VOICE:+33671419836
+EMAIL;TYPE=WORK,INTERNET:tlaurent.osteo@gmail.com
+ADR;TYPE=WORK:;;1175 Grand'route;Manziat;;01570;France
+URL:https://tlaurent-osteopathe.fr
+END:VCARD
